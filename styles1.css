@@ -1,0 +1,245 @@
+@media only screen and (min-device-width: 200px) and (max-device-width: 375px){
+/*===========================================================================================================================================================================================================*/
+
+/*This is for tablet*/
+.main{
+
+    position:fixed;
+    padding:0;
+    margin:0;
+
+    top:0;
+    left:0;
+width: 375px;
+height: 812px;
+background: linear-gradient(166.99deg, #4FC6FC 1.12%, #AC80F4 100%);
+
+
+}
+*{
+
+font-family: Poppins, sans-serif;
+font-weight: normal;
+}
+#main{
+	padding: 10px;
+
+
+}
+.three{
+	margin-top: 80px;
+}
+
+.main-div{
+
+position: absolute;
+left: 5.33%;
+right: 5.33%;
+top: 25%;
+bottom: 25%;
+
+background: #FFFFFF;
+border-radius: 15.5036px;
+}
+
+
+.main-div .div-main-two{
+	flex: 1;
+	padding: 10px;
+}
+
+.one{
+
+position: relative;
+left: 40%;
+top: 15px;
+bottom: 100px;
+font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 15.5036px;
+line-height: 23px;
+
+color: #000000;
+}
+
+.three span, .four span{
+position: relative;
+	left: 8%;
+
+
+	font-size: 12px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 9.03533px;
+line-height: 14px;
+
+color: #000000;
+	margin: 10px 10px 10px 10px;
+
+}
+.six{
+
+	margin-top: 8px;
+	padding: 5px;
+	display: flex;
+
+}
+.connect{
+position: absolute;
+left: 40%;
+
+top:66%;
+bottom: 34.50%;
+font-size: 7.22827px;
+line-height: 11px;
+	color: rgba(82, 82, 82, 0.8);
+}
+.hr1{
+
+position: absolute;
+left: 10.48%;
+right: 62%;
+top:65.50%;
+bottom: 34.50%;
+
+border: 0.699346px solid rgba(82, 82, 82, 0.5);
+transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.hr2{
+position: absolute;
+left: 60%;
+right: 10%;
+top:65.50%;
+bottom: 34.50%;
+border: 0.699346px solid rgba(82, 82, 82, 0.5);
+transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.seven{
+	padding: 10px;
+	margin-left: 15px;
+	margin-top: 10px;
+	display: flex;
+	justify-content: center;
+
+}
+
+.seven svg{
+	margin: 10px;
+height: 20.671493530273438px;
+width: 20.671493530273438px;
+padding: 0px;
+border-radius: 0px;
+
+}
+a{
+	text-decoration: none;
+}
+.left, .right{
+
+	font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 9.03533px;
+line-height: 11px;
+
+color: #000000;
+}
+.eight{
+	position: absolute;
+	top: 83%;
+	left: 25%;
+	display: flex;
+	text-align: right;
+}
+.left{
+	flex: 3;
+
+}
+.right{
+	flex: 1;
+
+}
+
+.three input, .four input{
+
+	position: relative;
+	left: 10%;
+height: 26.872941970825195px;
+width: 236.68861389160156px;
+
+border: none;
+background: rgba(228, 241, 255, 0.78);
+border-radius: 3.61413px;
+
+}
+.submit1{
+	position: relative;
+
+height: 25.41309356689453px;
+width: 88.09087371826172px;
+top: 13px;
+border-radius: 3.6141340732574463px;
+background: #0075FF;
+border-radius: 3.61413px;
+
+
+
+}
+.submit1 input{
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 10.3357px;
+width: 88.09087px;
+background: #0075FF;
+border: none;
+color: white;
+
+}
+.ico{
+	position: absolute;
+	left:79%;
+	top: 49.5%;
+	height: 4.330176830291748px;
+	width: 4.370380401611328px;
+
+
+
+
+}
+.ico2{
+		position: absolute;
+	left: 78%;
+	top: 48.75%;
+height: 4.330176830291748px;
+width: 10.928470611572266px;
+
+
+
+
+}
+.ico3{
+	position: absolute;
+	left:79%;
+	top: 62.5%;
+		height: 4.330176830291748px;
+	width: 4.370380401611328px;
+
+}
+.ico4{
+		position: absolute;
+	left:78%;
+	top: 61.75%;
+	height: 4.330429553985596px;
+width: 10.928470611572266px;
+
+
+
+}
+
+
+}
